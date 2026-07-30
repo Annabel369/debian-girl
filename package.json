@@ -1,0 +1,24 @@
+"bin": {
+    "debian-girl": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annabel369/debian-girl.git"
+  },
+  "keywords": [
+    "plymouth",
+    "debian",
+    "boot-theme",
+    "theme"
+  ],
+  "author": "Annabel369",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Annabel369/debian-girl/issues"
+  },
+  "homepage": "https://github.com/Annabel369/debian-girl#readme",
+  "dependencies": {
+    "markdownlint": "^0.38.0"
+  }
+}

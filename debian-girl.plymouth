@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Debian Girl
+Description=Tema de boot com animacao da garota Debian
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/debian-girl
+ScriptFile=/usr/share/plymouth/themes/debian-girl/debian-girl.script
